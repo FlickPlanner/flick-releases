@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Flick</title>
+        <item>
+            <title>1.5.0</title>
+            <pubDate>Wed, 18 Feb 2026 18:00:00 -0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="hhttps://flickplanner.github.io/flick-releases/updates/Flick-1.5.0.dmg"
+                length="75559686"
+                type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
