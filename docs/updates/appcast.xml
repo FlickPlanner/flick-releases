@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="hhttps://flickplanner.github.io/flick-releases/updates/Flick-1.5.1.dmg"
+            <enclosure url="https://flickplanner.github.io/flick-releases/updates/Flick-1.5.1.dmg"
                 length="66357404"
                 type="application/octet-stream"/>
         </item>
