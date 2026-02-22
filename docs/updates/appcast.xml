@@ -3,13 +3,13 @@
     <channel>
         <title>Flick</title>
         <item>
-            <title>1.5.0</title>
-            <pubDate>Wed, 18 Feb 2026 18:00:00 -0300</pubDate>
+            <title>1.5.1</title>
+            <pubDate>Sun, 22 Feb 2026 10:30:00 -0300</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="hhttps://flickplanner.github.io/flick-releases/updates/Flick-1.5.0.dmg"
-                length="75559686"
+            <enclosure url="hhttps://flickplanner.github.io/flick-releases/updates/Flick-1.5.1.dmg"
+                length="66357404"
                 type="application/octet-stream"/>
         </item>
     </channel>
