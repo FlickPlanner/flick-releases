@@ -5,7 +5,7 @@
         <item>
             <title>1.6.0</title>
             <pubDate>Sun, 29 Mar 2026 10:30:00 -0300</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://flickplanner.github.io/flick-releases/updates/Flick-1.6.0.dmg"
