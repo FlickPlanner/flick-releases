@@ -1,0 +1,28 @@
+name: Validate Sparkle Appcast
+
+on:
+  pull_request:
+    paths:
+      - ".github/workflows/validate-appcast.yml"
+      - "Script/**"
+      - "updates/**"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/validate-appcast.yml"
+      - "Script/**"
+      - "updates/**"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out release files
+        uses: actions/checkout@v4
+
+      - name: Validate signed appcast and artifacts
+        run: python3 Script/validate_appcast.py

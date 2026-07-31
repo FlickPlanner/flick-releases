@@ -1,16 +1,20 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Flick</title>
         <item>
-            <title>2.0.1</title>
-            <pubDate>Sun, 12 May 2026 22:30:00 -0300</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <title>2.1.2</title>
+            <pubDate>Thu, 30 Jul 2026 22:57:10 -0300</pubDate>
+            <link>https://www.flickplanner.com</link>
+            <sparkle:minimumAutoupdateVersion>3</sparkle:minimumAutoupdateVersion>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>2.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://flickplanner.github.io/flick-releases/updates/Flick-2.0.1.dmg"
-                length="67967246"
-                type="application/octet-stream"/>
+            <enclosure url="https://flickplanner.github.io/flick-releases/updates/Flick-2.1.2.dmg" length="65200550" type="application/octet-stream" sparkle:edSignature="dkDtQ3mogECJUd2KH5F/XuMcH1RX0VKm3qhdNw8nd9K3asVn9soD3Qw8kH5QBwAG9xGRbo6LD8w+8rIpZJnAAg=="></enclosure>
         </item>
     </channel>
-</rss>
+</rss><!-- sparkle-signatures:
+edSignature: fBTG+6mJJiVIaY/FLfQNh/mBB9hyOKG9PgEnXYixoQsZa3dY2/GYhNXylTQXKAy1igY4b5ePhxeN3DCzBAMKCA==
+length: 1165
+-->

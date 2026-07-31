@@ -60,3 +60,9 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# macOS metadata
+.DS_Store
+
+# Sparkle moves superseded local archives here. They remain recoverable from Git history.
+old_updates/
